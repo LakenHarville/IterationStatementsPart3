@@ -1,0 +1,13 @@
+F:\repos\IterationStatementsPart3\IterationStatementsPart3\bin\Debug\netcoreapp3.1\IterationStatementsPart3.exe
+F:\repos\IterationStatementsPart3\IterationStatementsPart3\bin\Debug\netcoreapp3.1\IterationStatementsPart3.deps.json
+F:\repos\IterationStatementsPart3\IterationStatementsPart3\bin\Debug\netcoreapp3.1\IterationStatementsPart3.runtimeconfig.json
+F:\repos\IterationStatementsPart3\IterationStatementsPart3\bin\Debug\netcoreapp3.1\IterationStatementsPart3.runtimeconfig.dev.json
+F:\repos\IterationStatementsPart3\IterationStatementsPart3\bin\Debug\netcoreapp3.1\IterationStatementsPart3.dll
+F:\repos\IterationStatementsPart3\IterationStatementsPart3\bin\Debug\netcoreapp3.1\IterationStatementsPart3.pdb
+F:\repos\IterationStatementsPart3\IterationStatementsPart3\obj\Debug\netcoreapp3.1\IterationStatementsPart3.csproj.AssemblyReference.cache
+F:\repos\IterationStatementsPart3\IterationStatementsPart3\obj\Debug\netcoreapp3.1\IterationStatementsPart3.AssemblyInfoInputs.cache
+F:\repos\IterationStatementsPart3\IterationStatementsPart3\obj\Debug\netcoreapp3.1\IterationStatementsPart3.AssemblyInfo.cs
+F:\repos\IterationStatementsPart3\IterationStatementsPart3\obj\Debug\netcoreapp3.1\IterationStatementsPart3.csproj.CoreCompileInputs.cache
+F:\repos\IterationStatementsPart3\IterationStatementsPart3\obj\Debug\netcoreapp3.1\IterationStatementsPart3.dll
+F:\repos\IterationStatementsPart3\IterationStatementsPart3\obj\Debug\netcoreapp3.1\IterationStatementsPart3.pdb
+F:\repos\IterationStatementsPart3\IterationStatementsPart3\obj\Debug\netcoreapp3.1\IterationStatementsPart3.genruntimeconfig.cache
